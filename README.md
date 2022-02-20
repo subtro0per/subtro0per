@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @subtro0per
+- 👀 I’m interested in python programming.
+- 🌱 I’m currently learning coding websites with flask.
+- 📫 How to reach me? Just send an email to subtro0per@dnmx.org
